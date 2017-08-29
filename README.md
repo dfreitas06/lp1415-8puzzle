@@ -1,6 +1,6 @@
 # 8 Puzzle
 
-### Programming Logic Project
+### Logic for Programming Project
 
 This project consists in creating a Prolog program that implements the 8 Puzzle game.
 
